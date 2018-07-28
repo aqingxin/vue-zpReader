@@ -1,5 +1,4 @@
 # vue-zpReader
-一个vue+vuex+axios+mint-ui实现的小说阅读器
 
 > 技术栈:vue2.0+vuex+axios+mint-ui
 
