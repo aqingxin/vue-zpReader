@@ -139,7 +139,7 @@
             cover: this.book.cover,
             title: this.book.title,
             id: this.book._id,
-            chapterIndexCache: null,
+            chapterIndexCache: 0,
             bookSource: 0
           };
           window.localStorage.setItem('book', JSON.stringify(localShelf))
